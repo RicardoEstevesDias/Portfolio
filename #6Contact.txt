@@ -1,1 +1,10 @@
-Email + linkedIn
+Tableau avec :
+ -Email 
+ -linkedIn 
+ -github
+
+ Essayer de faire un formulaire d'envoi de mail vers moi avec:
+ -nom
+ -prenom
+ -Email
+ -message

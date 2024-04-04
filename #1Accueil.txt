@@ -1,1 +1,7 @@
-Page d'accueil avec une image ou autre chose
+Page d'accueil avec une image ("interactive") si possible ou autre chose
+
+BONJOUR,
+Je m'appelle Ricardo ESTEVES DIAS
+ÉTUDIANT EN BTS SIO OPTION SLAM
+
+Bouton: Lien qui renvoye vers la page de profil ("En savoir plus")

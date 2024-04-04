@@ -1,8 +1,29 @@
-Présentation breve de moi même
-CV
-Parcours scolaire 
-professionnel 
-certifications
-tous les projets 
-compétences acquises
-outils acquis
+Présentation breve de moi même ("A propos de moi")
+    - Petit texte qui me présente
+    - objectif professionnel
+
+Parcours scolaire :
+    -Frise chronologique qui montre mon parcours scolaire jusqu'ici
+
+Parcours professionnel :
+    -Frise chronologique qui montre mon parcours professionnel jusqu'ici
+
+qualités:
+    -trois qualités sur moi (trois cases horizontales)
+
+Certifications:
+    -liste des certifications que j'ai obtenu jusqu'ici
+
+compétences acquises:
+    -liste des compétences acquises jusqu'ici
+
+outils acquis:
+    -liste des outils acquis jusqu'ici
+
+tous les projets :
+    -liste des projects réalisés jusqu'ici
+
+CV (en PDF):
+-deux boutons (en horizontal):
+    -"Consulter CV" ("ouvre PDF sur une autre page)
+    -"Télecharger CV" ("télécharge le PDF)

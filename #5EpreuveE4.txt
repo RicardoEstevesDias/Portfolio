@@ -1,5 +1,26 @@
 Lien vers page avec mes deux projets
 
-2 projets à presenter
-- Immobilis
-- FashionFolio
+lien vers les projects respectifs (boutonA/boutonB)
+Qu'est ce que l'épreuveE4?
+photo tableau de synthése
+
+2 projets à presenter:
+- Immobilis:
+    -afficher des screens
+    -explication de l'utilité / objectif de l'application
+    -temps de développement
+    -technologies utilisés
+    -paradygme de programmation
+    -structure de l'application
+    -déroulement de la programmation
+    -comment fonctionne
+
+- FashionFolio:
+    -afficher des screens
+    -explication de l'utilité / objectif de l'application
+    -temps de développement
+    -technologies utilisés
+    -paradygme de programmation
+    -structure de l'application
+    -déroulement de la programmation
+    -comment fonctionne
