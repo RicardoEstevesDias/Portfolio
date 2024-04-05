@@ -3,7 +3,6 @@ enlever les dropdown:
 rediger toutes les pages
 ajouter toutes les images/icônes/logos nécessaires
 mettre en forme les pages nécessaires (ajouter des cartes...)
-trouver s'il ya moyen de recevoir des mail
 changer couleurs et design de la page
 chercher police et mise en forme du texte des pages
 
@@ -12,3 +11,7 @@ il ne doit rester que readme.txt et index.html à la racine dans la version fina
 mettre les favicon
 mettre toutes les pasges (excepté l'index) dans un dossier "pages"
 donner un titre a toutes les pages
+
+
+fait:
+recevoir des mail de contact
