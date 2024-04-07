@@ -1,0 +1,90 @@
+Présentation breve de moi même ("A propos de moi")
+    - Petit texte qui me présente
+    - objectif professionnel
+
+lien pour chaque partie ci dessous
+
+Parcours scolaire :
+    -Frise chronologique qui montre mon parcours scolaire jusqu'ici
+
+Parcours professionnel :
+    -Frise chronologique qui montre mon parcours professionnel jusqu'ici
+
+qualités:
+    -trois qualités sur moi (trois cases horizontales)
+
+Certifications:
+    -liste des certifications que j'ai obtenu jusqu'ici
+
+compétences acquises:
+    -liste des compétences acquises jusqu'ici
+
+outils acquis:
+    -liste des outils acquis jusqu'ici
+
+tous les projets :
+    -liste des projects réalisés jusqu'ici
+
+CV (en PDF):
+-deux boutons (en horizontal):
+    -"Consulter CV" ("ouvre PDF sur une autre page)
+    -"Télecharger CV" ("télécharge le PDF)
+
+
+Présentation:
+Je m’appelle Ricardo Esteves dias, j'ai' 21 ans. 
+Je suis actuellement étudiant 
+à Bussy-Saint-Georges 
+au CFA EMSCA, 
+en deuxième année de BTS « SIO spécialité SLAM » 
+Services Informatiques aux Organisations 
+spécialité en Solutions Logicielles et Applications Métiers. 
+
+Depuis tout petit, j’ai toujours été attiré par 
+l’informatique et les nouvelles technologies. 
+C’est tout naturellement que je me suis tourné vers ces études, 
+dans le but d'être dévellopeur.
+
+Parcours scolaire :
+bac spé ses llce anglais jean vilar
+1an lea anglais-espagnol gustave eiffel
+bts SIO
+
+Parcours professionnel:
+1 an alternance LaserGame Bailly-Romaivilliers (maintenant LaserCity) employé polyvalent
+actuellement chez Irysius technicien n1
+
+qualités:
+autonome : permet de mettre en place des solutions sans avoir besoin d'être assisté
+perseverant : (à revoir) je cherche à toujours trouver une solution a un probléme, ne pas se décourager
+patient : prendre le temps de réflechir aux differentes options pour rendre un travail plus qualitatif
+curieux : apprendre sur les nouvelles technologies etc
+
+certifications:
+python MOOC
+sololearn plusieurs
+
+techonologies acquises:
+html/css
+javascript
+php
+mysql
+lignes de commande
+python
+vbs
+laravel
+bootstrap
+
+outils acquis:
+vscode
+workbench
+github
+terminal de commandes
+virtualbox
+
+projets:
+monumental
+meteo
+
+
+CV
