@@ -10,9 +10,6 @@ Parcours scolaire :
 Parcours professionnel :
     -Frise chronologique qui montre mon parcours professionnel jusqu'ici
 
-qualités:
-    -trois qualités sur moi (trois cases horizontales)
-
 Certifications:
     -liste des certifications que j'ai obtenu jusqu'ici
 
