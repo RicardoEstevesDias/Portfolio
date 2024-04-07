@@ -1,5 +1,3 @@
-enlever les dropdown:
-    -à la place mettre des boutons ou lien pour emmener vers des points précis de la partie respective
 rediger toutes les pages
 ajouter toutes les images/icônes/logos nécessaires
 mettre en forme les pages nécessaires (ajouter des cartes...)
@@ -15,3 +13,5 @@ donner un titre a toutes les pages
 
 fait:
 recevoir des mail de contact
+enlever les dropdown:
+    -à la place mettre des boutons ou lien pour emmener vers des points précis de la partie respective
