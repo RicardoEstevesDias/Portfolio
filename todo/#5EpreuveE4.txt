@@ -24,3 +24,5 @@ photo tableau de synthése
     -structure de l'application
     -déroulement de la programmation
     -comment fonctionne
+
+div>div+div+div+(div>div+div+div+div+div+div+div+div)*2
