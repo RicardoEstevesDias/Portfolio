@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="fr" data-bs-theme="dark">
 
 <head>
   <meta charset="UTF-8">
@@ -68,20 +68,18 @@
 
   <main>
 
-    <div>
+    <div class="container">
 
-      <h1 class="pt-1">Page contact</h1>
+      <h2 class="text-center m-4">Envoyez-moi un message !</h2>
 
-      <h3 class="text-center m-4">Contactez-moi !</h3>
+      <div class="d-flex flex-wrap justify-content-evenly mb-5 pt-4">
 
-      <div class="d-flex justify-content-evenly mb-5">
-
-        <div>
+        <div class="w-auto">
 
           <form class="gform" method="POST"
             action="https://script.google.com/macros/s/AKfycbwqGVslsmr-nzGzOwnOLu5JWzfTzOcyn8gbUdHou616OxTgHZKS2wNx-skOU9OdZIGkww/exec">
 
-            <div class="form-elements">
+            <div class="form-elements mb-5">
 
               <div class="mb-3">
                 <input type="text" class="form-control" name="prenom" id="prenom" aria-describedby="helpId"
@@ -123,7 +121,7 @@
         </div>
 
 
-        <div class="d-flex flex-column justify-content-evenly border rounded-4 p-4">
+        <div class="d-flex flex-column justify-content-evenly bg-body-tertiary rounded-4 p-4 mb-5">
 
           <div>
             <i class="bi bi-envelope"></i><a href="mailto:restevesdias@gmail.com" class="link-opacity-50-hover link-underline link-underline-opacity-0">
