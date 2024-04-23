@@ -6,3 +6,5 @@ Je m'appelle Ricardo ESTEVES DIAS
 (trouver une meilleure accroche)
 
 FAIT --- Bouton: Lien qui renvoye vers la page de profil ("En savoir plus")
+
+Supprimer la partie test dans la barre de navigation
