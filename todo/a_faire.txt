@@ -3,12 +3,14 @@ ajouter toutes les images/icônes/logos nécessaires
 mettre en forme les pages nécessaires (ajouter des cartes...)
 changer couleurs et design de la page
 chercher police et mise en forme du texte des pages
+page contact plus compacte
 
 a la fin:
 il ne doit rester que readme.txt et index.html à la racine dans la version finale
 mettre les favicon
 mettre toutes les pasges (excepté l'index) dans un dossier "pages"
 donner un titre a toutes les pages
+voir si fond d'écran est bien sur toutes les pages
 
 
 fait:
