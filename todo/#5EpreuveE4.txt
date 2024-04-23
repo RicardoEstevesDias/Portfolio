@@ -25,4 +25,4 @@ photo tableau de synthése
     -déroulement de la programmation
     -comment fonctionne
 
-div>div+div+div+(div>div+div+div+div+div+div+div+div)*2
+.container>.liens+.e4+.tableau+(.projet>.screen+.explication+.temps+.technologies+.paradygme+.structure+.deroulement+.fonctionne)*2
