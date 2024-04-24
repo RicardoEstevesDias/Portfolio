@@ -4,16 +4,10 @@ mettre en forme les pages nécessaires (ajouter des cartes...)
 changer couleurs et design de la page
 chercher police et mise en forme du texte des pages
 page contact plus compacte
+mettre le footer en dehors des containers
+voir  si lien rend bien sur page profin aprés "a propos de moi"
 
 a la fin:
 il ne doit rester que readme.txt et index.html à la racine dans la version finale
-mettre les favicon
-mettre toutes les pasges (excepté l'index) dans un dossier "pages"
-donner un titre a toutes les pages
 voir si fond d'écran est bien sur toutes les pages
-
-
-fait:
-recevoir des mail de contact
-enlever les dropdown:
-    -à la place mettre des boutons ou lien pour emmener vers des points précis de la partie respective
+Supprimer la partie test dans la barre de navigation

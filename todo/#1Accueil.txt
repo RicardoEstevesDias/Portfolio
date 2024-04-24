@@ -1,10 +1,8 @@
-FAIT --- Page d'accueil avec une image ("interactive") si possible ou autre chose
 
 BONJOUR,
 Je m'appelle Ricardo ESTEVES DIAS
 ÉTUDIANT EN BTS SIO OPTION SLAM
 (trouver une meilleure accroche)
 
-FAIT --- Bouton: Lien qui renvoye vers la page de profil ("En savoir plus")
 
-Supprimer la partie test dans la barre de navigation
+a la fin :Supprimer la partie test dans la barre de navigation
