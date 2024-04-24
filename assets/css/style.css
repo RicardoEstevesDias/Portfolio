@@ -11,6 +11,10 @@ body {
     display: none;
   }
 
+h2, h3 {
+    margin-bottom: 32px;
+}
+
 hr {
     margin-top: 50px ;
     margin-bottom: 50px ;
