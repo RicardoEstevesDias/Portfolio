@@ -13,6 +13,7 @@
     integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
 
   <link rel="stylesheet" href="../assets/css/style.css">
+  <link rel="stylesheet" href="../assets/css/form-style.css">
 </head>
 
 <body class="container vh-100">
@@ -79,7 +80,7 @@
           <form class="gform" method="POST"
             action="https://script.google.com/macros/s/AKfycbwqGVslsmr-nzGzOwnOLu5JWzfTzOcyn8gbUdHou616OxTgHZKS2wNx-skOU9OdZIGkww/exec">
 
-            <div class="form-elements mb-5 d-flex flex-column">
+            <div class="form-elements mb-5" style="display:block;">
 
               <div class="mb-3">
                 <input type="text" class="form-control" name="prenom" id="prenom" aria-describedby="helpId"
@@ -105,15 +106,18 @@
                 <input type="hidden" class="form-control" name="honeypot" id="honeypot" value="" />
               </div>
 
-              <button class="btn btn-primary align-self-center"><i class="bi bi-send"></i> Envoyer</button>
+              <div class="w-100 d-flex">
+                <button class="btn btn-primary m-auto"><i class="bi bi-send"></i> Envoyer</button>
+              </div>
 
             </div>
 
             <!-- Message de remerciement aprés la soumission du formulaire: -->
-            <div class="thankyou_message" style="display:none;">
+            <div class="thankyou_message w-auto" style="display:none;">
               <p>Le message a bien été envoyé</p>
-              <h2><em>Merci</em> de m'avoir contacté!
-                Je vous contacterai aussitôt que possible!</h2>
+              <h2><em>Merci</em> de m'avoir contacté! 
+                <br> Je vous contacterai 
+                <br> aussitôt que possible!</h2>
             </div>
 
           </form>
