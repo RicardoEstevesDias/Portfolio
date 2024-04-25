@@ -120,17 +120,17 @@
 /* Logos Parcours Scolaire */
 
 #vilar::before{
-    background: url(../images/jean_vilar.png);
+    background: url(../images/logos/jean_vilar.png);
     background-size: cover;
 }
 
 #gustave::before{
-    background: url(../images/gustave_eiffel.png);
+    background: url(../images/logos/gustave_eiffel.png);
     background-size: cover;
 }
 
 #emsca::before{
-    background: url(../images/emsca.jpg);
+    background: url(../images/logos/emsca.jpg);
     background-size: cover;
 }
 
