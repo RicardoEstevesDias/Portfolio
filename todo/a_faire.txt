@@ -11,3 +11,10 @@ a la fin:
 il ne doit rester que readme.txt et index.html à la racine dans la version finale
 voir si fond d'écran est bien sur toutes les pages
 Supprimer la partie test dans la barre de navigation
+
+
+
+Secret:
+.link-opacity-10 {
+    --bs-link-opacity: 0;
+}
