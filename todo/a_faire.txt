@@ -8,6 +8,7 @@ mettre le footer en dehors des containers
 voir  si lien rend bien sur page profil aprés "a propos de moi"
 ajouter dates sur les timelines
 transformer toutes les pages comme celle de bts
+mettre le vrai cv + certificats + logos
 
 a la fin:
 il ne doit rester que readme.txt et index.html à la racine dans la version finale
