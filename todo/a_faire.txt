@@ -5,7 +5,9 @@ changer couleurs et design de la page
 chercher police et mise en forme du texte des pages
 page contact plus compacte
 mettre le footer en dehors des containers
-voir  si lien rend bien sur page profin aprés "a propos de moi"
+voir  si lien rend bien sur page profil aprés "a propos de moi"
+ajouter dates sur les timelines
+transformer toutes les pages comme celle de bts
 
 a la fin:
 il ne doit rester que readme.txt et index.html à la racine dans la version finale
