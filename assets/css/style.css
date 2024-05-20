@@ -29,6 +29,11 @@ hr {
     margin-bottom: 50px;
 }
 
+.card img{
+    width: 264px;
+    height: 264px;
+}
+
 .comp img{
     width: 128px;
     height: 128px;
