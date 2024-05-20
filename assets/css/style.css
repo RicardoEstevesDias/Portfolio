@@ -29,6 +29,11 @@ hr {
     margin-bottom: 50px;
 }
 
+.comp img{
+    width: 128px;
+    height: 128px;
+}
+
 #btn-back-to-top {
     position: fixed;
     bottom: 20px;
