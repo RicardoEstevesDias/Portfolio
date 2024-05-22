@@ -137,12 +137,12 @@
 /* Logos Parcours Scolaire */
 
 #laser::before{
-    background: url(https://fakeimg.pl/125/);
+    background: url(../images/logos/LaserCity.png);
     background-size: cover;
 }
 
 #irysius::before{
-    background: url(https://fakeimg.pl/125/);
+    background: url(../images/logos/irysius.webp);
     background-size: cover;
 }
 

@@ -1,5 +1,0 @@
-let test = document.querySelector("#redirection")
-test.addEventListener("click", redirect)
-function redirect() {
-    window.location.replace("http://www.w3schools.com");
-}
